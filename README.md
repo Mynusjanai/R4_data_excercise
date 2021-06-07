@@ -76,13 +76,8 @@ Weekly view of the play data smoothes out the seasonality of the data, but at th
 ```
 ├── data
 ├── img
-├── logs
-├── models
-├── sub_functions    
-├── trials
 ├── .gitignore
-├── README.md
-├── japanese_character_classification.pdf   
-└── japanese_classification.ipynb
+├── R4 Data Science Exercise.ipynb   
+└── README.md
 
 
