@@ -76,6 +76,8 @@ Weekly view of the play data smoothes out the seasonality of the data, but at th
 ```
 ├── data
 ├── img
+├── notebook_download
+│   └── Chaz Frazer - R4 Data Science Exercise.pdf
 ├── .gitignore
 ├── R4 Data Science Exercise.ipynb   
 └── README.md
