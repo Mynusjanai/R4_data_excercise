@@ -62,7 +62,7 @@ Discovery has by far the most initial playthroughs. This is exacerbated by its c
 Discovery plays increase steadily for the first 2 1/2 weeks, then tapers off steadily while experiencing some seasonality. Players are likely to move on and dabble in Fingerprint, but the rate of change is more static compared to Discovery.<br>
 
 3. Weekly Plays by Genre
-![Weekly](.img/weekly_plays_genre)<br>
+![Weekly](.img/weekly_plays_genre.png)<br>
 Weekly view of the play data smoothes out the seasonality of the data, but at the same time enhances the view of dominance that Discovery has over the other game genres. Examination of the intricacies of the other genres could provide some insight into why user engagement with them is so low.<br><br>
 
 
